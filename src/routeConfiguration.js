@@ -6,6 +6,7 @@ import {
   ContactDetailsPage,
   EditListingPage,
   EmailVerificationPage,
+  FAQPage,
   InboxPage,
   LandingPage,
   ListingPage,
@@ -62,6 +63,11 @@ const routeConfiguration = () => {
       path: '/about',
       name: 'AboutPage',
       component: AboutPage,
+    },
+    {
+      path: '/faq',
+      name: 'FAQPage',
+      component: FAQPage,
     },
     {
       path: '/s',
