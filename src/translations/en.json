@@ -3,6 +3,7 @@
   "ActivityFeed.deletedReviewContent": "This review is deleted.",
   "ActivityFeed.leaveAReview": "Leave a review for { displayName }.",
   "ActivityFeed.leaveAReviewSecond": "Leave a review for { displayName } to see their review.",
+  "ActivityFeed.operatorDecline": "The booking was cancelled.",
   "ActivityFeed.ownTransitionAccept": "You accepted the booking request.",
   "ActivityFeed.ownTransitionDecline": "You declined the booking request.",
   "ActivityFeed.ownTransitionExpire": "Booking request expired. You did not reply on time.",
